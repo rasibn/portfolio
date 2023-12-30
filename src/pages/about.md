@@ -10,7 +10,7 @@ Since you are somehow here, here are some facts about me:
 - Personality type is ISTJ-A (Logistician apparently)
 - My favourite youtuber is THE Primeagen
 - Favourite books are the basic: "Deep Work" by [Cal Newport](https://calnewport.com/), "Atomic Habit" by [James Clear](https://jamesclear.com/), and "The name of the Wind" by Patrick Rothfuss
-- My Favourite Quote is ["It's the questions we can't answer that teach us the most. They teach us how to think. If you give a man an answer, all he gains is a little fact. But give him a question and he'll look for his own answers."]()
+- My Favourite Quote is ["It's the questions we can't answer that teach us the most. They teach us how to think. If you give a man an answer, all he gains is a little fact. But give him a question and he'll look for his own answers."](https://www.goodreads.com/quotes/351709-it-s-the-questions-we-can-t-answer-that-teach-us-the)
 
 _If you don't care about me, but are curious about the stack I used to build this blog, read below!_
 
@@ -22,7 +22,7 @@ _If you don't care about me, but are curious about the stack I used to build thi
 
 ## Blog Tech Stack
 
-This website is written using the awesome vanilla JavaScript framework [Astro]() with a little bit of React for some interactions. I used tailwind for styling; and the blogs are in simple markdown.
+This website is written using the awesome vanilla JavaScript framework [Astro](https://astro.build) with a little bit of React for some interactions. I used tailwind for styling; and the blogs are in simple markdown.
 
 ## Features
 
