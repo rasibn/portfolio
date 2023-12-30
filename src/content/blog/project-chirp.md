@@ -1,7 +1,7 @@
 ---
 author: Rasib Nadeem
 pubDatetime: 2023-07-23T15:20:35Z
-title: "Chirp: a twitter copycat"
+title: "Project: Chirp"
 featured: false
 draft: false
 tags:

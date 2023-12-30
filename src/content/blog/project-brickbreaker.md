@@ -1,7 +1,7 @@
 ---
 author: Rasib Nadeem
 pubDatetime: 2021-03-13T15:20:35Z
-title: BrickBreaker in java
+title: "Project: BrickBreaker"
 featured: false
 draft: false
 tags:

@@ -1,17 +1,17 @@
 ---
 author: Rasib Nadeem
 pubDatetime: 2023-07-21T12:20:00Z
-title: "rasib.me (old)"
+title: " Project: rasib.me (old)"
 featured: false
 draft: false
 tags:
   - project
   - javascript
-  - hmtl
+  - html
   - css
   - astro
 
-description: "My portfolio website made with just html and css (and a little bit of vanilla javascript)"
+description: "portfolio website I made with just html and css (and a little bit of vanilla javascript)"
 ---
 
 link: "https://rasib.me"

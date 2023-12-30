@@ -3,7 +3,15 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-rasib.dev is the blog for all things that interest me including but not limited to: frontend, neovim, rust, and quantum computing.
+But you clicked the about page so you probably want to know more about me, here are some things:
+
+- I code in neovim (btw) with a basic i3, arch setup
+- Personality type is ISTJ-A (Logistician apparently)
+- My favourite youtuber of course is the Primeagen
+- Favourite books are the basic: "Deep Work" by [Cal Newport](), "Atomic Habit" by [James Clear](), and "The name of the Wind" by Patrick Rothfuss
+- My Favourite Quote is ["It's the questions we can't answer that teach us the most. They teach us how to think. If you give a man an answer, all he gains is a little fact. But give him a question and he'll look for his own answers."]()
+
+If you don't care about me, but just want to know what stack I used to build this blog, read below!
 
 <!--
 <div>
@@ -13,7 +21,7 @@ rasib.dev is the blog for all things that interest me including but not limited 
 
 ## Blog Tech Stack
 
-This website is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+This website is written using the awesome vanilla JavaScript framework [Astro]() with a little bit of React for some interactions. I used tailwind for styling; and the blogs are in simple markdown.
 
 ## Features
 

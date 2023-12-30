@@ -9,7 +9,7 @@ tags:
   - tailwind
   - prisma
 
-title: "Tracker: To track your media"
+title: "Project: Tracker"
 pubDate: 2022-07-23
 description: "a website where you can tracker all the book, movies etc. you like!"
 ---

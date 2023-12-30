@@ -40,11 +40,13 @@ const socialCount = SOCIALS.filter(social => social.active).length;
       </a>
 
       <p>
-        rasib.dev is the blog for all things that interest me including but not
-        limited to: frontend, neovim, rust, and quantum computing.
+        rasib.dev is a blog where I talk about things that interest me including
+        but not limited to: frontend, neovim, rust, and quantum computing.
       </p>
+      {
+        /*
       <p>
-        Read the blog posts or check
+        // Read blog posts or check
         <LinkButton
           className="underline decoration-dashed underline-offset-4 hover:text-skin-accent"
           href="https://github.com/satnaing/astro-paper#readme"
@@ -52,6 +54,8 @@ const socialCount = SOCIALS.filter(social => social.active).length;
           README
         </LinkButton> for more info.
       </p>
+      */
+      }
       {
         // only display if at least one social link is enabled
         socialCount > 0 && (
