@@ -3,7 +3,7 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-Hi, I am Rasib, a software engineer from Pakistan. I like learning shiny new things and talking about them.
+Hi, I am Rasib, a software engineer from Pakistan. I like learning shiny new things and talking about them. You can check out my resume [here](https://old.rasib.me/resume.pdf)
 Since you are somehow here, here are some facts about me:
 
 - I code in neovim (btw) with a basic i3, arch setup
