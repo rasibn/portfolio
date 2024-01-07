@@ -12,7 +12,6 @@ tags:
 description: "A BrickBreaker game made using java."
 ---
 
-link: "https://github.com/Rasib0/BrickBreaker"
 repo: "https://github.com/Rasib0/BrickBreaker"
 
 - BrickBreaker game with random powerups and levels with increasing difficulty. Made using Java and Swing.
