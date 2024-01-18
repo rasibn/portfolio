@@ -5,7 +5,7 @@ modDatetime: 2023-12-21T09:12:47.400Z
 title: I use vim btw
 slug: vim-user-btw
 featured: true
-draft: false
+draft: true
 tags:
   - vim
 description: I can't live without it now
