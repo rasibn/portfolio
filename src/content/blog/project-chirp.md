@@ -3,7 +3,7 @@ author: Rasib Nadeem
 pubDatetime: 2023-07-23T15:20:35Z
 title: "Project: Chirp"
 featured: false
-draft: false
+draft: true 
 tags:
   - project
   - react

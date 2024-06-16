@@ -1,7 +1,7 @@
 ---
 author: Rasib Nadeem
 pubDatetime: 2021-03-13T15:20:35Z
-title: "Project: BrickBreaker"
+title: "What Competitive Programming means for me"
 featured: false
 draft: true
 tags:

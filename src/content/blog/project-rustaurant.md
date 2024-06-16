@@ -1,6 +1,6 @@
 ---
 author: Rasib Nadeem
-title: "Project: Rustaurant"
+title: "I wrote a website in Rust"
 featured: true
 draft: false
 slug: rustaurant
@@ -8,11 +8,9 @@ pubDatetime: 2023-04-13T03:20:35Z
 tags:
   - project
   - rust
-  - WebAssembly
-  - axum
-  - yew
+  - WASM
 
-description: "A restaurant reviewing website built using using Rust compiled to WASM"
+description: ""
 ---
 
 ## Links
