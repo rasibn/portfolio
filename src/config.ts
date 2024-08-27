@@ -25,13 +25,13 @@ export const LOGO_IMAGE = {
 export const SOCIALS: SocialObjects = [
   {
     name: "Github",
-    href: "https://github.com/Rasib0",
+    href: "https://github.com/rasibn",
     linkTitle: ` ${SITE.title} on Github`,
     active: true,
   },
   {
     name: "Instagram",
-    href: "https://github.com/Rasib0",
+    href: "https://github.com/rasibn",
     linkTitle: `${SITE.title} on Instagram`,
     active: false,
   },
@@ -67,7 +67,7 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "Reddit",
-    href: "https://github.com/Rasib0",
+    href: "https://github.com/rasibn",
     linkTitle: `${SITE.title} on Reddit`,
     active: false,
   },

@@ -15,7 +15,7 @@ description: ""
 
 ## Links
 
-- repo: "https://github.com/Rasib0/Rustaurant"
+- repo: "https://github.com/rasibn/Rustaurant"
 
 ## Project Description
 
